@@ -16,7 +16,7 @@ As part of my 2nd year Hardware Design class (ECE295), I worked on a Team of 3 s
 As part of my 2nd year Computer Organization class (ECE243), I recreated the popular NES game, Dr. Mario, on a DE1-SoC board using C and the CPUlator simulator. Dr. Mario is a tetris-like game where you move falling pills to eliminate viruses.
 
 - Designed algorithms to control the behaviour of pills, detect collisions between pills and viruses, and detect four of the same colour in a row.
-- How to detect interrupts from a keyboard and timers
+- Detected interrupts from a keyboard and timers.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96326431/189794306-5b310984-3020-41c9-9ac5-522112176fda.png" width="444" height="370" align="center" /> 
