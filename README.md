@@ -1,6 +1,16 @@
 # Stefan de Lasa - Portfolio
 
 ## PROJECTS
+
+### Messaging App, ECE361 Nov - Dec 2022
+As part of my 3rd Computer Networks class, I created a messaging app. Using persistent TCP connections, my teammate and I created a client and server program. Features included:
+ - Allowing users to register a login username and password in a database
+ - Allowing user to login/connect to the server with username-password checking
+ - Allowing users to create and join sessions
+ - Allowing users to broadcast messages to users in their session
+ - Allowing users to send private messages to one another
+ - Printing a list of all current users and sessions.
+
 ### Radio Transceiver, ECE295. Jan - Apr 2022 
 As part of my 2nd year Hardware Design class (ECE295), I worked on a Team of 3 students to design, build and test two radio transceiver (transmitter + receiver) components. Specific contributions included,
 
@@ -28,6 +38,6 @@ Video Demonstration: https://youtu.be/Sxyitkk7tpI
 As part of my first year linear algebra class (MAT188), I explored how the singular value decomposition (a matrix factorization technique) could be used for image compression. 
 
 <p align="center">
-<img width="639" alt="Image Compression" src="https://user-images.githubusercontent.com/96326431/206514789-c4b468a9-1526-440c-abb1-357728ec81f4.png">
-<\p>
+<img width="639" alt="Image Compression" src="https://user-images.githubusercontent.com/96326431/206514789-c4b468a9-1526-440c-abb1-357728ec81f4.png" />
+</p>
  
