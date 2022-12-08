@@ -24,6 +24,7 @@ Video Demonstration: https://youtu.be/Sxyitkk7tpI
 <img src="https://user-images.githubusercontent.com/96326431/189794306-5b310984-3020-41c9-9ac5-522112176fda.png" width="444" height="370" align="center" /> 
 </p>
 
-### Lossy Image Compression using Singular Value Decomposition, MAT188. Sep - Dec 2020 - [Link](https://docs.google.com/document/d/1v0BLIv7QCa_5vH29sBMTlUehxuQzOXBKs0ePxEL4RJs/edit?usp=sharing)
+### Lossy Image Compression using Singular Value Decomposition, MAT188. Sep - Dec 2020 
 As part of my first year linear algebra class (MAT188), I explored how the singular value decomposition (a matrix factorization technique) could be used for image compression. 
+ 
  
