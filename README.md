@@ -26,5 +26,8 @@ Video Demonstration: https://youtu.be/Sxyitkk7tpI
 
 ### Lossy Image Compression using Singular Value Decomposition, MAT188. Sep - Dec 2020 
 As part of my first year linear algebra class (MAT188), I explored how the singular value decomposition (a matrix factorization technique) could be used for image compression. 
- 
+
+<p align="center">
+<img width="639" alt="Image Compression" src="https://user-images.githubusercontent.com/96326431/206514789-c4b468a9-1526-440c-abb1-357728ec81f4.png">
+<\p>
  
