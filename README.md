@@ -2,6 +2,17 @@
 
 ## PROJECTS
 
+### MNIST Classifier [Notebook](https://github.com/destefy/MNISTclassifier/blob/main/MNISTclassifier/classifier_github.ipynb)
+
+To get a better understanding of some basic machine learning techniques, I created a model to classifier the classic MNIST hand-written number data set. The key concepts used were:
+ - Minibatch Stocastic Gradient Descent
+ - Softmax Regression
+ 
+ After 10 training epochs, I achieved an accuracy of 94%.
+ 
+ <img width="930" alt="correctly_classified" src="https://user-images.githubusercontent.com/96326431/211172438-3b88a3f5-ef7f-4c19-9fc4-3a41872653d4.png">
+
+
 ### Messaging App, ECE361 Nov - Dec 2022
 As part of my 3rd Computer Networks class, I created a messaging app. Using persistent TCP connections, my teammate and I created a client and server program. Features included:
  - Allowing users to register a login username and password in a database
