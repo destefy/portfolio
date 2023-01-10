@@ -6,7 +6,7 @@
 
 To get a better understanding of some basic machine learning techniques, I created a model to classifier the classic MNIST hand-written number data set. The key concepts used were:
  - Softmax Regression, to allow the model to use a regression technique
- - Minibatch Stocastic Gradient Descent, the chosen regression technique
+ - Minibatch Stochastic Gradient Descent, the chosen regression technique
  
  After 10 training epochs, I achieved an accuracy of 94%.
  
