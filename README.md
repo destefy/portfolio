@@ -16,8 +16,8 @@ As part of my Operating Systems class, I implemented many core operating system 
 ECE342, April 2023.
 
 For my Computer Hardware class’ optional project, I built a compass that can be programmed to point to any location. Using a STM32NUCLEO-F446ZE microcontroller:
-- Used a GY-NEO6MV GPS module to receive and parse GPS data using USART communication and Direct Memory Access (DMA).
-- Communicated via I2C with a HMC5883L magnetonomer to read magnet field data to determine my compass’ orientation
+- Used a GY-NEO6MV GPS module to parse GPS data, using USART communication and Direct Memory Access.
+- Communicated via I2C with a HMC5883L magnetonomer to read magnet field data to determine my compass’ orientation.
 - Used Pulse-Width-Modulation (PWM) to display the direction and distance to the programmed location on a NEOPixel Ring.
 
 ### Deep Learning Model for Circuit Module Identification 
@@ -38,7 +38,7 @@ As part of my Introduction to Deep Learning class, my team and I used machine le
 ECE342, March - April 2023
 
 For my Computer Hardware class, I used a STM32NUCLEO-F446ZE microcontroller to interface with a camera module to receive a continuous video stream. With this project I:
-- Used Direct-Memory-Access to pipeline the video streaming process
+- Used Direct-Memory-Access to pipeline the video streaming process.
 - Optimized the Frames-Per-Second (FPS) using data truncation and run-length encoding to achieve a 160% improvement in FPS.
 - Optimized FPS again by sending only the difference in frames to achieve an additional 200% improvement.
 
