@@ -31,7 +31,7 @@ As part of my Introduction to Deep Learning class, my team and I used machine le
 
 <p align="center">
 <img width="650" alt="Screen Shot 2023-05-02 at 12 53 08 PM" src="https://user-images.githubusercontent.com/96326431/235734289-87bd276c-d91b-4306-8c90-1b441e13ee8b.png">
-<img width="651" alt="Screen Shot 2023-05-02 at 12 57 39 PM" src="https://user-images.githubusercontent.com/96326431/235734295-efdf8831-06db-4469-aa30-1cc318c162d1.png">
+<img width="650" alt="Screen Shot 2023-05-02 at 12 57 39 PM" src="https://user-images.githubusercontent.com/96326431/235734295-efdf8831-06db-4469-aa30-1cc318c162d1.png">
 </p>
 
 ### Digital Camera Interfacing and Optimization
@@ -41,6 +41,12 @@ For my Computer Hardware class, I used a STM32NUCLEO-F446ZE microcontroller to i
 - Used Direct-Memory-Access to pipeline the video streaming process.
 - Optimized the Frames-Per-Second (FPS) using data truncation and run-length encoding to achieve a 160% improvement in FPS.
 - Optimized FPS again by sending only the difference in frames to achieve an additional 200% improvement.
+
+<p align="center">
+<img width="330" src="https://user-images.githubusercontent.com/96326431/236488680-3222b35d-2504-4581-92b1-8da8eae7e5ad.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/96326431/236489124-76e97c9f-3237-47c8-b45c-900a729e69b5.jpg">
+</p>
+
 
 ### MNIST Classifier, 
 Personal Project, Dec 2022, [Notebook](https://github.com/destefy/MNISTclassifier/blob/main/MNISTclassifier/classifier_github.ipynb)
@@ -52,17 +58,6 @@ To get a better understanding of some basic machine learning techniques, I creat
  After 10 training epochs, I achieved an accuracy of 94%.
  
  <img width="930" alt="correctly_classified" src="https://user-images.githubusercontent.com/96326431/211172438-3b88a3f5-ef7f-4c19-9fc4-3a41872653d4.png">
-
-
-### Messaging App 
-ECE361, Nov - Dec 2022
-
-As part of my 3rd Computer Networks class, I created a messaging app. Using persistent TCP connections, my teammate and I created a client and server program. Features included:
- - Allowing users to register a login username and password in a database.
- - Allowing user to login/connect to the server with username-password checking.
- - Allowing users to create and join sessions.
- - Allowing users to sent public and private messages.
- - Printing a list of all current users and sessions.
 
 ### Radio Transceiver 
 ECE295, Jan - Apr 2022, [Video](https://youtube.com/shorts/8gz0YreASXM?feature=share)
@@ -76,6 +71,16 @@ As part of my 2nd year Hardware Design class, I worked on a Team of 3 students t
 <p align="center">
 <img src="https://user-images.githubusercontent.com/96326431/189790958-b503a821-d3ad-4d4a-8e94-7d64e3628d42.jpg" width="457" height="288" /> {<img src="https://user-images.githubusercontent.com/96326431/189790953-57688363-f331-47d0-ac92-7651c610a7ee.jpg" width="457" height="288" />
 </p>
+
+### Messaging App 
+ECE361, Nov - Dec 2022
+
+As part of my 3rd Computer Networks class, I created a messaging app. Using persistent TCP connections, my teammate and I created a client and server program. Features included:
+ - Allowing users to register a login username and password in a database.
+ - Allowing user to login/connect to the server with username-password checking.
+ - Allowing users to create and join sessions.
+ - Allowing users to sent public and private messages.
+ - Printing a list of all current users and sessions.
 
 ### Dr. Mario, 
 ECE243, Jan - Apr 2022, [Video](https://youtu.be/Sxyitkk7tpI)
